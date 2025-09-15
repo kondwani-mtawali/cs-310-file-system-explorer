@@ -1,0 +1,17 @@
+1. Command line arguments are accepted using '$'
+
+2. Programs used to complete this assignment included:
+- (https://github.com/bobbyiliev/introduction-to-bash-scripting/blob/main/ebook/en/content/011-bash-loops.md)
+    - The above link was used to gain a basic understanding of how to use loops in script and correct formatting for them
+
+- Refine.dev
+    - Refine.dev was used to understand how arguments are stored and accessed in scipt
+
+- W3 Schools
+    - I used W3 Schools to understand what file test operators I need to be using, how to write if statements in bash, and also 
+    a little bit about functions, although I didn't end up needing to implement any functions although it could've been used an
+    alternative
+
+- unix.stackexchange.com   
+    - I looked at multiple examples of code regarding how to structure operators within commands, using things like -h, -b, -e,
+    functions like cut, and more. 
